@@ -1,0 +1,101 @@
+Customer_Name,Product_Name,Category,Sub_Category,Amount,Quantity,Profit,State,Payment_Method,Month
+Madan Mohan,Dell Latitude...,Electronics,Headphones,1110.14,5,1110.14,Madhya Pradesh,UPI,March
+Harivansh,Acer Nitro 5 A...,Books,Story,809,2,323.6,Madhya Pradesh,Cash on Delivery,March
+Priya,Prestigio Smar...,Accessories,Wallets,299,2,119.6,Gujarat,Credit Card,June
+Rohan,Dell Latitude...,Furniture,Chairs,1110.14,5,1110.14,Delhi,Debit Card,July
+Rahul,Acer Nitro 5 A...,Books,Education,809,4,647.2,Uttar Pradesh,Cash on Delivery,December
+Rahul,Prestigio Smar...,Furniture,Chairs,299,2,119.6,Uttar Pradesh,Cash on Delivery,November
+Madan Mohan,Dell Latitude...,Electronics,Laptops,1110.14,3,666.08,Madhya Pradesh,Debit Card,February
+Shiva,Acer Nitro 5 A...,Books,Comics,809,5,809,Uttar Pradesh,Cash on Delivery,August
+Shiva,Prestigio Smar...,Accessories,Belts,299,5,299,Uttar Pradesh,Credit Card,April
+Kiran,Dell Latitude...,Accessories,Wallets,1110.14,1,222.03,Madhya Pradesh,Cash on Delivery,March
+Aman,Acer Nitro 5 A...,Books,Story,809,4,647.2,Rajasthan,Net Banking,October
+Priya,Prestigio Smar...,Accessories,Belts,299,2,119.6,Gujarat,UPI,November
+Sneha,Dell Latitude...,Furniture,Tables,1110.14,4,888.11,Madhya Pradesh,Net Banking,October
+Madan Mohan,Acer Nitro 5 A...,Books,Comics,809,1,161.8,Uttar Pradesh,UPI,February
+Madan Mohan,Prestigio Smar...,Electronics,Headphones,299,1,59.8,Uttar Pradesh,Credit Card,April
+Madan Mohan,Dell Latitude...,Furniture,Tables,1110.14,4,888.11,Uttar Pradesh,Debit Card,May
+Kiran,Acer Nitro 5 A...,Accessories,Wallets,809,1,161.8,Madhya Pradesh,Debit Card,April
+Madhav,Prestigio Smar...,Accessories,Wallets,299,4,239.2,Delhi,Cash on Delivery,April
+Rohan,Dell Latitude...,Accessories,Wallets,1110.14,1,222.03,Maharashtra,Net Banking,January
+Rahul,Acer Nitro 5 A...,Electronics,Headphones,809,4,647.2,Maharashtra,Debit Card,November
+Harivansh,Prestigio Smar...,Books,Education,299,5,299,Rajasthan,Debit Card,May
+Aman,Dell Latitude...,Electronics,Laptops,1110.14,2,444.06,Gujarat,UPI,July
+Shiva,Acer Nitro 5 A...,Accessories,Bags,809,1,161.8,Rajasthan,Cash on Delivery,August
+Priya,Prestigio Smar...,Accessories,Wallets,299,2,119.6,Gujarat,Credit Card,February
+Madan Mohan,Dell Latitude...,Electronics,Mobiles,1110.14,2,444.06,Madhya Pradesh,UPI,October
+Shiva,Acer Nitro 5 A...,Books,Story,809,3,485.4,Delhi,Credit Card,August
+Rahul,Prestigio Smar...,Accessories,Belts,299,3,179.4,Maharashtra,UPI,December
+Kiran,Dell Latitude...,Electronics,Mobiles,1110.14,1,222.03,Delhi,Debit Card,December
+Harivansh,Acer Nitro 5 A...,Books,Education,809,5,809,Madhya Pradesh,Cash on Delivery,July
+Harivansh,Prestigio Smar...,Accessories,Bags,299,3,179.4,Madhya Pradesh,Credit Card,April
+Shiva,Dell Latitude...,Fashion,Shirts,1110.14,3,666.08,Uttar Pradesh,Net Banking,June
+Shiva,Acer Nitro 5 A...,Accessories,Bags,809,2,323.6,Rajasthan,Net Banking,September
+Sneha,Prestigio Smar...,Accessories,Bags,299,2,119.6,Madhya Pradesh,Debit Card,January
+Harivansh,Dell Latitude...,Electronics,Headphones,1110.14,2,444.06,Gujarat,Debit Card,January
+Kiran,Acer Nitro 5 A...,Accessories,Belts,809,2,323.6,Delhi,Cash on Delivery,October
+Madan Mohan,Prestigio Smar...,Fashion,Shirts,299,2,119.6,Gujarat,Debit Card,December
+Rohan,Dell Latitude...,Accessories,Belts,1110.14,5,1110.14,Gujarat,Net Banking,February
+Madan Mohan,Acer Nitro 5 A...,Electronics,Laptops,809,4,647.2,Gujarat,UPI,November
+Rahul,Prestigio Smar...,Fashion,Watches,299,5,299,Gujarat,Cash on Delivery,May
+Rahul,Dell Latitude...,Books,Education,1110.14,5,1110.14,Gujarat,Net Banking,November
+Rahul,Acer Nitro 5 A...,Accessories,Belts,809,3,485.4,Rajasthan,Net Banking,March
+Priya,Prestigio Smar...,Fashion,Watches,299,5,299,Maharashtra,UPI,October
+Madan Mohan,Dell Latitude...,Accessories,Belts,1110.14,3,666.08,Gujarat,Debit Card,October
+Rohan,Acer Nitro 5 A...,Books,Comics,809,1,161.8,Gujarat,Debit Card,August
+Madan Mohan,Prestigio Smar...,Fashion,Shirts,299,2,119.6,Gujarat,Debit Card,June
+Aman,Dell Latitude...,Books,Education,1110.14,2,444.06,Uttar Pradesh,Credit Card,December
+Madan Mohan,Acer Nitro 5 A...,Electronics,Laptops,809,5,809,Uttar Pradesh,Cash on Delivery,January
+Madhav,Prestigio Smar...,Books,Comics,299,3,179.4,Madhya Pradesh,Debit Card,November
+Sneha,Dell Latitude...,Electronics,Headphones,1110.14,1,222.03,Maharashtra,Net Banking,July
+Rahul,Acer Nitro 5 A...,Furniture,Chairs,809,4,647.2,Maharashtra,UPI,March
+Rahul,Prestigio Smar...,Books,Education,299,5,299,Madhya Pradesh,Credit Card,February
+Aman,Dell Latitude...,Furniture,Tables,1110.14,3,666.08,Delhi,Cash on Delivery,September
+Sneha,Acer Nitro 5 A...,Accessories,Wallets,809,5,809,Madhya Pradesh,Debit Card,April
+Sneha,Prestigio Smar...,Fashion,Shoes,299,1,59.8,Uttar Pradesh,Debit Card,March
+Kiran,Dell Latitude...,Books,Comics,1110.14,4,888.11,Delhi,Cash on Delivery,June
+Kiran,Acer Nitro 5 A...,Furniture,Sofas,809,5,809,Rajasthan,Net Banking,August
+Kiran,Prestigio Smar...,Accessories,Belts,299,3,179.4,Gujarat,Cash on Delivery,September
+Harivansh,Dell Latitude...,Fashion,Shoes,1110.14,3,666.08,Maharashtra,Debit Card,July
+Madhav,Acer Nitro 5 A...,Electronics,Headphones,809,3,485.4,Delhi,Net Banking,December
+Kiran,Prestigio Smar...,Books,Education,299,1,59.8,Gujarat,Debit Card,November
+Sneha,Dell Latitude...,Books,Education,1110.14,1,222.03,Maharashtra,Net Banking,January
+Sneha,Acer Nitro 5 A...,Accessories,Wallets,809,1,161.8,Maharashtra,UPI,March
+Kiran,Prestigio Smar...,Fashion,Watches,299,4,239.2,Rajasthan,Cash on Delivery,August
+Rohan,Dell Latitude...,Fashion,Watches,1110.14,1,222.03,Delhi,Credit Card,February
+Shiva,Acer Nitro 5 A...,Accessories,Wallets,809,2,323.6,Maharashtra,UPI,November
+Kiran,Prestigio Smar...,Fashion,Shoes,299,3,179.4,Uttar Pradesh,Debit Card,June
+Kiran,Dell Latitude...,Electronics,Headphones,1110.14,4,888.11,Rajasthan,Net Banking,December
+Rohan,Acer Nitro 5 A...,Books,Comics,809,4,647.2,Uttar Pradesh,Debit Card,October
+Sneha,Prestigio Smar...,Books,Comics,299,5,299,Gujarat,Debit Card,September
+Madhav,Dell Latitude...,Furniture,Chairs,1110.14,1,222.03,Madhya Pradesh,UPI,January
+Madan Mohan,Acer Nitro 5 A...,Electronics,Laptops,809,5,809,Madhya Pradesh,Credit Card,December
+Madan Mohan,Prestigio Smar...,Electronics,Mobiles,299,4,239.2,Madhya Pradesh,Debit Card,March
+Priya,Dell Latitude...,Fashion,Shirts,1110.14,1,222.03,Delhi,UPI,March
+Aman,Acer Nitro 5 A...,Furniture,Chairs,809,2,323.6,Rajasthan,Net Banking,April
+Madan Mohan,Prestigio Smar...,Books,Story,299,5,299,Madhya Pradesh,UPI,September
+Madan Mohan,Dell Latitude...,Fashion,Watches,1110.14,3,666.08,Delhi,Cash on Delivery,October
+Sneha,Acer Nitro 5 A...,Accessories,Belts,809,5,809,Delhi,UPI,April
+Shiva,Prestigio Smar...,Books,Story,299,4,239.2,Maharashtra,Net Banking,July
+Rohan,Dell Latitude...,Books,Comics,1110.14,2,444.06,Rajasthan,Net Banking,October
+Rahul,Acer Nitro 5 A...,Fashion,Shirts,809,2,323.6,Uttar Pradesh,Credit Card,May
+Madhav,Prestigio Smar...,Accessories,Bags,299,2,119.6,Uttar Pradesh,Debit Card,May
+Harivansh,Dell Latitude...,Fashion,Shirts,1110.14,3,666.08,Maharashtra,Cash on Delivery,July
+Harivansh,Acer Nitro 5 A...,Accessories,Belts,809,3,485.4,Maharashtra,Credit Card,December
+Aman,Prestigio Smar...,Electronics,Headphones,299,5,299,Gujarat,Net Banking,June
+Aman,Dell Latitude...,Books,Comics,1110.14,5,1110.14,Maharashtra,UPI,March
+Kiran,Acer Nitro 5 A...,Furniture,Tables,809,2,323.6,Maharashtra,Debit Card,March
+Kiran,Prestigio Smar...,Furniture,Tables,299,2,119.6,Maharashtra,Credit Card,June
+Aman,Dell Latitude...,Books,Story,1110.14,4,888.11,Gujarat,Net Banking,July
+Priya,Acer Nitro 5 A...,Electronics,Laptops,809,4,647.2,Maharashtra,Net Banking,December
+Sneha,Prestigio Smar...,Furniture,Tables,299,2,119.6,Uttar Pradesh,Net Banking,September
+Rahul,Dell Latitude...,Electronics,Laptops,1110.14,1,222.03,Gujarat,Net Banking,July
+Harivansh,Acer Nitro 5 A...,Books,Comics,809,3,485.4,Madhya Pradesh,Credit Card,April
+Harivansh,Prestigio Smar...,Fashion,Watches,299,3,179.4,Delhi,Net Banking,November
+Kiran,Dell Latitude...,Fashion,Watches,1110.14,2,444.06,Rajasthan,UPI,March
+Harivansh,Acer Nitro 5 A...,Accessories,Belts,809,3,485.4,Gujarat,Debit Card,August
+Madhav,Prestigio Smar...,Fashion,Shirts,299,5,299,Uttar Pradesh,Net Banking,September
+Harivansh,Dell Latitude...,Furniture,Sofas,1110.14,3,666.08,Delhi,Credit Card,July
+Madhav,Acer Nitro 5 A...,Electronics,Laptops,809,3,485.4,Gujarat,Credit Card,January
+Rahul,Prestigio Smar...,Books,Story,299,1,59.8,Madhya Pradesh,Net Banking,October
+Kiran,Dell Latitude...,Fashion,Shirts,1110.14,5,1110.14,Rajasthan,Credit Card,March
